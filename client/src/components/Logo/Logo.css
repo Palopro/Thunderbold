@@ -1,0 +1,10 @@
+.img-transparent {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 29%;
+    background-color: transparent;
+    border: none;
+}

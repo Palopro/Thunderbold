@@ -1,0 +1,40 @@
+.btn-black {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+    border-radius: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.text-bg-black {
+    color: #FFF;
+    background: #000;
+}
+
+.label-no-margin {
+    margin-bottom: 0;
+}
+
+.text-black {
+    color: black;
+}
+
+.input-text {
+    background-color: white;
+    border: none;
+    border-radius: 0;
+    font-size: 1.2rem;
+}
+
+.button-down {
+    margin-top: 2rem;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 5em;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
